@@ -1,0 +1,11 @@
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\bin\Debug\net8.0\SimpleBookCatalog.Domain.deps.json
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\bin\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\bin\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\SimpleBookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\SimpleBookCatalog.Domain.AssemblyInfo.cs
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\SimpleBookCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\SimpleBookCatalog.Domain.dll
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\refint\SimpleBookCatalog.Domain.dll
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\SimpleBookCatalog.Domain.pdb
+C:\Users\pe\source\repos\Livros\SimpleBookCatalog\obj\Debug\net8.0\ref\SimpleBookCatalog.Domain.dll
